@@ -8,8 +8,12 @@
 
 1.4. Medidas y acciones para minimizar los impactos ambientales.
  
-Conclusiones  
-Mapa conceptual  
-Glosario  
-Referencias  
+Conclusiones
+
+Mapa conceptual
+
+Glosario
+
+Referencias
+
 Autores
