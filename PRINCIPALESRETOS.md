@@ -17,9 +17,9 @@ La agricultura extensiva y la erosión son las principales causas de la degradac
 
 **3. Contaminación del aire, agua y suelo**🌍
 
-a contaminación es un proceso en el que se introducen sustancias extrañas al medio ambiente, afectando de manera determinante recursos fundamentales como el aire, el agua y el suelo. Es un problema de todos: cada día que pasa se incrementa más y más la contaminación por las actividades humanas. 
+La contaminación es el proceso en el que se introducen sustancias extrañas al medio ambiente. Nuestro aire se ve afectado por las emisiones industriales, el transporte y la agricultura, provocando enfermedades en nuestra salud.
 
-    Contaminación del aire: Las emisiones industriales, los vehículos y las actividades agrícolas son grandes fuentes de contaminantes que afectan la calidad del aire, lo que causa problemas de salud pública, como enfermedades respiratorias y cardiovasculares.
+
     Contaminación del agua: La descarga de productos químicos, plásticos, metales pesados y residuos industriales en ríos, océanos y lagos está afectando la calidad del agua, poniendo en peligro la vida acuática y el acceso humano al agua potable.
     Contaminación del suelo: La deforestación, el uso excesivo de pesticidas y fertilizantes, y la acumulación de desechos industriales están degradando la tierra, lo que reduce su capacidad para sustentar la vida.
 Sin un desarrollo sostenible, la superpoblación puede provocar escasez de alimentos y agua y el agotamiento de otros recursos . También puede exacerbar problemas como la eliminación de residuos, la contaminación y la deforestación, que pueden contribuir a problemas de salud pública. El uso general de energía puede tener un impacto importante en el medio ambiente.
