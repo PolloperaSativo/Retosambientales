@@ -1,21 +1,21 @@
 # 1.2. Principales retos ambientales y sociales
 
-Existen diferentes problemas medioambientales
+Existen diferentes problemas medioambientales🪴, pero podemos señalar principalmente:
 
-Sin un desarrollo sostenible, la superpoblación puede provocar escasez de alimentos y agua y el agotamiento de otros recursos . También puede exacerbar problemas como la eliminación de residuos, la contaminación y la deforestación, que pueden contribuir a problemas de salud pública. El uso general de energía puede tener un impacto importante en el medio ambiente.
+**1. Cambio climático**🌩️
+La variación en las temperaturas y en los patrones climáticos se debe a los cambios en la naturaleza como la actividad solar o las erupciones volcánicas, pero el factor humano juega un papel muy importante. La quema de combustibles como el carbón, el petróleo y el gas genera emisiones de gases (dióxido de carbono y metano) de efecto invernadero que envuelven la Tierra elevando las temperaturas. La agricultura, la tala de árboles, la industria y el transporte nos llevan a olas de calor, sequías, inundaciones, huracanes... que afectan al ecosistema. Nos enfrentamos a un gran reto para controlar el cambio climático, pero de eso depende nuestro futuro. 
 
-Los principales retos medioambientales que enfrenta el mundo en la actualidad son variados y complejos, pero algunos de los más destacados incluyen:
-1. Cambio climático
 
-El calentamiento global es uno de los problemas más urgentes. Las emisiones de gases de efecto invernadero (principalmente CO2) provenientes de la quema de combustibles fósiles, la deforestación y la agricultura intensiva están contribuyendo al aumento de las temperaturas globales. Esto provoca fenómenos extremos como olas de calor, sequías, inundaciones y huracanes más intensos, afectando tanto a ecosistemas como a comunidades humanas.
-2. Pérdida de biodiversidad
+**2. La degradación del suelo: cómo afecta la producción de alimentos y la biodiversidad**🌳
+La agricultura extensiva y la erosión son las principales causas de la degradación del suelo, ya que ocasionan que la tierra pierda su capacidad productiva. Nuestra tierra está llena de agua, nutrientes y microorganismos que son esenciales para producir nuestros alimentos. Si lo unimos a la disminución de la biodiversidad (las especies animales y vegetales) podemos ver amenazada nuestra seguridad alimentaria y nuestra salud. De ahí que sea un reto importante para el bienestar humano.
 
-La destrucción de hábitats naturales, la contaminación y el cambio climático están llevando a una disminución acelerada de las especies animales y vegetales. Esta pérdida de biodiversidad amenaza los ecosistemas, que son cruciales para la salud del planeta y el bienestar humano, pues proporcionan servicios vitales como la polinización, la purificación del aire y agua, y la regulación del clima.
+
 3. Contaminación del aire, agua y suelo
 
     Contaminación del aire: Las emisiones industriales, los vehículos y las actividades agrícolas son grandes fuentes de contaminantes que afectan la calidad del aire, lo que causa problemas de salud pública, como enfermedades respiratorias y cardiovasculares.
     Contaminación del agua: La descarga de productos químicos, plásticos, metales pesados y residuos industriales en ríos, océanos y lagos está afectando la calidad del agua, poniendo en peligro la vida acuática y el acceso humano al agua potable.
     Contaminación del suelo: La deforestación, el uso excesivo de pesticidas y fertilizantes, y la acumulación de desechos industriales están degradando la tierra, lo que reduce su capacidad para sustentar la vida.
+Sin un desarrollo sostenible, la superpoblación puede provocar escasez de alimentos y agua y el agotamiento de otros recursos . También puede exacerbar problemas como la eliminación de residuos, la contaminación y la deforestación, que pueden contribuir a problemas de salud pública. El uso general de energía puede tener un impacto importante en el medio ambiente.
 
 4. Deforestación
 
@@ -47,5 +47,10 @@ Para enfrentar estos desafíos, se requiere una combinación de políticas públ
     Conservación de la biodiversidad: Proteger los ecosistemas y especies en peligro, y promover prácticas agrícolas y forestales sostenibles.
     Educación y sensibilización: Fomentar un mayor entendimiento del medio ambiente y promover prácticas sostenibles a nivel individual y comunitario.
     Políticas internacionales: Impulsar acuerdos globales como el Acuerdo de París para coordinar esfuerzos internacionales en la lucha contra el cambio climático y otros problemas ambientales.
-
 El tiempo es clave, y las acciones hoy determinarán el futuro del planeta.
+
+https://www.leadsostenibilidad.com/blog/agotamiento-recursos-naturales
+https://www.un.org/es/climatechange/what-is-climate-change
+https://www.medellin.gov.co/es/sala-de-prensa/noticias/problemas-ambientales-que-son-relevancia-y-los-23-mas-graves-que-estan-afectando-a-nuestro-planeta/
+https://www.fao.org/newsroom/story/Let-s-StopSoilErosion-to-ensure-a-food-secure-future/es
+
