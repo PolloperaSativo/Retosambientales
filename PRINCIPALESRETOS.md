@@ -8,9 +8,11 @@ Existen diferentes problemas medioambientales🪴, pero podemos señalar princip
 La variación en las temperaturas y en los patrones climáticos se debe a los cambios en la naturaleza como la actividad solar o las erupciones volcánicas, pero el factor humano juega un papel muy importante. La quema de combustibles como el carbón, el petróleo y el gas genera emisiones de gases (dióxido de carbono y metano) de efecto invernadero que envuelven la Tierra elevando las temperaturas. La agricultura, la tala de árboles, la industria y el transporte nos llevan a olas de calor, sequías, inundaciones, huracanes... que afectan al ecosistema. Nos enfrentamos a un gran reto para controlar el cambio climático, pero de eso depende nuestro futuro. 
 
 
+
 **2. La degradación del suelo: cómo afecta la producción de alimentos y la biodiversidad**🌳
 
 La agricultura extensiva y la erosión son las principales causas de la degradación del suelo, ya que ocasionan que la tierra pierda su capacidad productiva. Nuestra tierra está llena de agua, nutrientes y microorganismos que son esenciales para producir nuestros alimentos. Si lo unimos a la disminución de la biodiversidad (las especies animales y vegetales) podemos ver amenazada nuestra seguridad alimentaria y nuestra salud. De ahí que sea un reto importante para el bienestar humano.
+
 
 
 **3. Contaminación del aire, agua y suelo**🌍
