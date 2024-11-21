@@ -3,7 +3,7 @@
 Existen diferentes problemas medioambientales🪴, pero podemos señalar principalmente:
 
 
-**1. Cambio climático**🌩️
+**1. Cambio climático** 🌩️
 
 La variación en las temperaturas y en los patrones climáticos se debe a los cambios en la naturaleza como la actividad solar o las erupciones volcánicas, pero el factor humano juega un papel muy importante. La quema de combustibles como el carbón, el petróleo y el gas genera emisiones de gases (dióxido de carbono y metano) de efecto invernadero que envuelven la Tierra elevando las temperaturas. La agricultura, la tala de árboles, la industria y el transporte nos llevan a olas de calor, sequías, inundaciones, huracanes... que afectan al ecosistema. Nos enfrentamos a un gran reto para controlar el cambio climático, pero de eso depende nuestro futuro. 
 
