@@ -13,7 +13,9 @@ La variación en las temperaturas y en los patrones climáticos se debe a los ca
 La agricultura extensiva y la erosión son las principales causas de la degradación del suelo, ya que ocasionan que la tierra pierda su capacidad productiva. Nuestra tierra está llena de agua, nutrientes y microorganismos que son esenciales para producir nuestros alimentos. Si lo unimos a la disminución de la biodiversidad (las especies animales y vegetales) podemos ver amenazada nuestra seguridad alimentaria y nuestra salud. De ahí que sea un reto importante para el bienestar humano.
 
 
-3. Contaminación del aire, agua y suelo
+**3. Contaminación del aire, agua y suelo**🌍
+
+a contaminación es un proceso en el que se introducen sustancias extrañas al medio ambiente, afectando de manera determinante recursos fundamentales como el aire, el agua y el suelo. Es un problema de todos: cada día que pasa se incrementa más y más la contaminación por las actividades humanas. 
 
     Contaminación del aire: Las emisiones industriales, los vehículos y las actividades agrícolas son grandes fuentes de contaminantes que afectan la calidad del aire, lo que causa problemas de salud pública, como enfermedades respiratorias y cardiovasculares.
     Contaminación del agua: La descarga de productos químicos, plásticos, metales pesados y residuos industriales en ríos, océanos y lagos está afectando la calidad del agua, poniendo en peligro la vida acuática y el acceso humano al agua potable.
