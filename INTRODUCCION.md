@@ -26,4 +26,3 @@ Factores que condicionan al clima:
       **Centros de presión**  
       **Corrientes marinas**  
 
-  https://humanidades.com/clima/
