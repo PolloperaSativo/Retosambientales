@@ -39,10 +39,16 @@ El aumento de la utilización de plásticos de un solo uso ha generado tal canti
 
 **7. Escasez de agua** 🚱
 
-El aumento de la población y la contaminación de fuentes de agua están exacerbando la escasez de agua potable en muchas regiones del mundo. El cambio climático también está afectando los patrones de precipitación, lo que agrava la situación en áreas ya vulnerables.
-8. Agricultura y uso de la tierra
+El cambio climático unido a la superpoblación, al uso descontrolado y a la contaminación, hace que el agua potable sea un recurso de primera necesidad que tenemos que cuidar. La escasez de agua se puede traducir en la aparición de enfermedades, falta de alimentos o desaparición de vegetales. La gestioón de este recurso es crucial.
+
+
+**8. Agricultura y uso de la tierra**🌾
+
+El uso adecuado de nuestra tierra y 
 
 La expansión de la agricultura intensiva, que a menudo involucra el uso de grandes cantidades de agua, fertilizantes y pesticidas, está contribuyendo a la contaminación, la pérdida de biodiversidad y la degradación del suelo. Además, la conversión de tierras forestales en tierras agrícolas está acelerando el cambio climático.
+La agricultura y el uso de la tierra son fundamentales para la producción de alimentos, la economía y la sostenibilidad ambiental. Implican prácticas como el cultivo de la tierra, la ganadería y la gestión de los recursos naturales. El uso excesivo o insostenible de la tierra, como la deforestación o la agricultura intensiva, puede llevar a la degradación del suelo y la pérdida de biodiversidad. Para mantener un equilibrio, se requieren prácticas agrícolas sostenibles y una gestión adecuada del uso de la tierra. La preservación de los ecosistemas es clave para garantizar la salud del planeta y la seguridad alimentaria.
+
 9. Sobrepoblación y urbanización
 
 El crecimiento acelerado de la población humana y la urbanización están aumentando la demanda de recursos naturales, energía y alimentos. Esto genera más contaminación, deforestación y presión sobre los ecosistemas.
@@ -72,4 +78,5 @@ https://www.fao.org/newsroom/story/Let-s-StopSoilErosion-to-ensure-a-food-secure
 http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-04552016000200014
 https://www.ecologiaverde.com/explotacion-de-recursos-naturales-definicion-tipos-y-ejemplos-1545.html
 https://saahaszerowaste.com/plastic-waste-management-india/
+https://globalparis.es/la-escasez-del-agua-en-el-undo-causas-y-consecuencias/
 
