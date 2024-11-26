@@ -5,7 +5,7 @@ El clima se define como las condiciones meteorológicas medias que caracterizan 
 ![Clima](/img/clima.jpg)
 
 Köppen establece cinco grandes climas a los que les otorga una letra mayúscula de la A a la E. Luego, cada clima tiene subtipos de climas a los que les asigna letras minúsculas que refieren a las variantes de temperatura y a la estacionalidad de las lluvias. Los climas son:  
-**Clima tropical**
+**Clima tropical**  
 **Clima seco o árido**  
 **Clima templado**  
 **Clima continental**  
