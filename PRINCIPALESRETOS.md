@@ -1,6 +1,6 @@
 # 1.2. Principales retos ambientales y sociales
 
-Existen diferentes problemas medioambientales🪴, pero podemos señalar principalmente:
+Existen diferentes problemas medioambientales,🌱 pero podemos señalar principalmente:
 
 
 **1. Cambio climático** 🌩️
@@ -37,7 +37,7 @@ El concepto de explotación de los recursos naturales, se conoce como el aprovec
 El aumento de la utilización de plásticos de un solo uso ha generado tal cantidad de basura, que nos obliga a tomar cartas en el asunto para poder reciclarla y darle otros usos a ese plástico, ya que su destrucción resulta una tarea casi imposible y lo están pagando nuestros mares y océanos y, por lo tanto, nuestra vida marina.
 
 
-**7. Escasez de agua**
+**7. Escasez de agua** 🚱
 
 El aumento de la población y la contaminación de fuentes de agua están exacerbando la escasez de agua potable en muchas regiones del mundo. El cambio climático también está afectando los patrones de precipitación, lo que agrava la situación en áreas ya vulnerables.
 8. Agricultura y uso de la tierra
