@@ -9,7 +9,7 @@ La variación en las temperaturas y en los patrones climáticos se debe a los ca
 
 
 
-**2. La degradación del suelo: cómo afecta la producción de alimentos y la biodiversidad** 🌲
+**2. La degradación del suelo: cómo afecta la producción de alimentos y la biodiversidad** 🌍🌱
 
 La agricultura extensiva y la erosión son las principales causas de la degradación del suelo, ya que ocasionan que la tierra pierda su capacidad productiva. Nuestra tierra está llena de agua, nutrientes y microorganismos que son esenciales para producir nuestros alimentos. Si lo unimos a la disminución de la biodiversidad (las especies animales y vegetales) podemos ver amenazada nuestra seguridad alimentaria y nuestra salud. De ahí que sea un reto importante para el bienestar humano.
 
