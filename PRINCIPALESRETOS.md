@@ -1,5 +1,7 @@
 # 1.2. Principales retos ambientales y sociales
 
+![Reto](/img/reto.png)
+
 Existen diferentes problemas medioambientales,🌱 pero podemos señalar principalmente:
 
 
