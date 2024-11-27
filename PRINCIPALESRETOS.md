@@ -3,7 +3,6 @@
 <p align="center">
   <img src="/img/reto.png" alt="![Reto](/img/reto.png)" />
 </p>
-![Reto](/img/reto.png)
 
 Existen diferentes problemas medioambientales,🌱 pero podemos señalar principalmente:
 
