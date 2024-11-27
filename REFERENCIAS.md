@@ -1,7 +1,6 @@
 # Referencias ✒️
 
-https://hablandoenvidrio.com/7-grandes-problemas-medioambientales/
-
+https://hablandoenvidrio.com/7-grandes-problemas-medioambientales/  
 https://www.leadsostenibilidad.com/blog/agotamiento-recursos-naturales
 
 https://www.un.org/es/climatechange/what-is-climate-change
