@@ -1,7 +1,7 @@
 # 1.2. Principales retos ambientales y sociales
 
 <p align="center">
-  <img src="reto.png" alt="Mi imagen centrada" />
+  <img src="reto.png" alt="![Reto](/img/reto.png)" />
 </p>
 ![Reto](/img/reto.png)
 
