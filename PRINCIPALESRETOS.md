@@ -42,14 +42,12 @@ El aumento de la utilización de plásticos de un solo uso ha generado tal canti
 El cambio climático unido a la superpoblación, al uso descontrolado y a la contaminación, hace que el agua potable sea un recurso de primera necesidad que tenemos que cuidar. La escasez de agua se puede traducir en la aparición de enfermedades, falta de alimentos o desaparición de vegetales. La gestioón de este recurso es crucial.
 
 
-**8. Agricultura y uso de la tierra**🌾
+**8. Agricultura y uso de la tierra** 🌾
 
-El uso adecuado de nuestra tierra y 
+El uso adecuado y responsable de nuestra tierra y la no agricultura intensiva son los retos a los que tenemos que enfrentarnos para que no perdamos biodiversidad, no degrademos nuestros suelos y no contribuyamos a acelerar el cambio climático, al convertir las tierras forestales en tierras agrícolas. Si cumplimos estos objetivos, disfrutaremos de una mejor sostenibilidad medioambiental y garantizaremos la salud del planeta. 
 
-La expansión de la agricultura intensiva, que a menudo involucra el uso de grandes cantidades de agua, fertilizantes y pesticidas, está contribuyendo a la contaminación, la pérdida de biodiversidad y la degradación del suelo. Además, la conversión de tierras forestales en tierras agrícolas está acelerando el cambio climático.
-La agricultura y el uso de la tierra son fundamentales para la producción de alimentos, la economía y la sostenibilidad ambiental. Implican prácticas como el cultivo de la tierra, la ganadería y la gestión de los recursos naturales. El uso excesivo o insostenible de la tierra, como la deforestación o la agricultura intensiva, puede llevar a la degradación del suelo y la pérdida de biodiversidad. Para mantener un equilibrio, se requieren prácticas agrícolas sostenibles y una gestión adecuada del uso de la tierra. La preservación de los ecosistemas es clave para garantizar la salud del planeta y la seguridad alimentaria.
 
-9. Sobrepoblación y urbanización
+**9. Sobrepoblación y urbanización** 🏙️
 
 El crecimiento acelerado de la población humana y la urbanización están aumentando la demanda de recursos naturales, energía y alimentos. Esto genera más contaminación, deforestación y presión sobre los ecosistemas.
 10. Desastres naturales y resiliencia
