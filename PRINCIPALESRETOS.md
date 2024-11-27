@@ -69,7 +69,6 @@ El tiempo es clave, y las acciones hoy determinarán el futuro del planeta.
 
     
     
-Sin un desarrollo sostenible, la superpoblación puede provocar escasez de alimentos y agua y el agotamiento de otros recursos . También puede exacerbar problemas como la eliminación de residuos, la contaminación y la deforestación, que pueden contribuir a problemas de salud pública. El uso general de energía puede tener un impacto importante en el medio ambiente.
 
 
 https://www.leadsostenibilidad.com/blog/agotamiento-recursos-naturales
