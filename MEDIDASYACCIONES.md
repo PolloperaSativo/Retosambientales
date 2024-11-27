@@ -2,7 +2,7 @@
 
 Hay muchas ideas y mucho trabajo por delante para poder combatir los impactos ambientales, pero necesitamos un esfuerzo general desde diferentes ámbitos. Tanto el comportamiento individual como el colectivo, pasando por políticas ambientales globales o innovaciones tecnológicas son muy necesarios. 
 
-![Medida](medida.jpeg)
+[Medida](medida.jpeg)
 
 Apuesta por energías renovables, revisa periódicamente tus consumos, ten en cuenta que disponer de un buen aislamiento térmico significará reducir el consumo de energía. 
 En el caso de la industria cada vez hay más empresas concienciadas para tal fin, evalúan sus instalaciones, se financian proyectos de eficiencia energética, promueven el reciclaje o la reducción de residuos. Haz que la consideración del medio ambiente sea una parte importante de la gestión de tu empresa. Implanta sistemas de gestión medioambiental y responsabilidad social empresarial.
