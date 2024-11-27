@@ -1,5 +1,8 @@
 # 1.2. Principales retos ambientales y sociales
 
+<p align="center">
+  <img src="reto.png" alt="Mi imagen centrada" />
+</p>
 ![Reto](/img/reto.png)
 
 Existen diferentes problemas medioambientales,🌱 pero podemos señalar principalmente:
