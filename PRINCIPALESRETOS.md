@@ -54,29 +54,3 @@ La sobrepoblación y la urbanización aumenta exponencialmente el consumo de ene
 **10. Desastres naturales y resiliencia** 🌊🌈
 
 Los desastres naturales aumentan a medida que vamos perjudicando nuestro planeta. Cada vez sufrimos más huracanes, incendios, inundaciones y deforestaciones. La capacidad de resiliencia es vital para reducir el impacto social y económico de estos acontecimientos.
-
-
-¿Cómo podemos abordar estos retos?
-
-Para enfrentar estos desafíos, se requiere una combinación de políticas públicas, acción global, innovación tecnológica y cambios en el comportamiento individual y colectivo. Algunas estrategias clave incluyen:
-
-    Energías renovables: Apostar por energías limpias como la solar, eólica e hidroeléctrica para reducir las emisiones de carbono.
-    Economía circular: Promover el reciclaje, la reutilización de materiales y la reducción de residuos.
-    Conservación de la biodiversidad: Proteger los ecosistemas y especies en peligro, y promover prácticas agrícolas y forestales sostenibles.
-    Educación y sensibilización: Fomentar un mayor entendimiento del medio ambiente y promover prácticas sostenibles a nivel individual y comunitario.
-    Políticas internacionales: Impulsar acuerdos globales como el Acuerdo de París para coordinar esfuerzos internacionales en la lucha contra el cambio climático y otros problemas ambientales.
-El tiempo es clave, y las acciones hoy determinarán el futuro del planeta.
-
-    
-    
-
-
-https://www.leadsostenibilidad.com/blog/agotamiento-recursos-naturales
-https://www.un.org/es/climatechange/what-is-climate-change
-https://www.medellin.gov.co/es/sala-de-prensa/noticias/problemas-ambientales-que-son-relevancia-y-los-23-mas-graves-que-estan-afectando-a-nuestro-planeta/
-https://www.fao.org/newsroom/story/Let-s-StopSoilErosion-to-ensure-a-food-secure-future/es
-http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-04552016000200014
-https://www.ecologiaverde.com/explotacion-de-recursos-naturales-definicion-tipos-y-ejemplos-1545.html
-https://saahaszerowaste.com/plastic-waste-management-india/
-https://globalparis.es/la-escasez-del-agua-en-el-undo-causas-y-consecuencias/
-
