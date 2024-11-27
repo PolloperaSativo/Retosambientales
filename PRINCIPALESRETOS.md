@@ -49,10 +49,13 @@ El uso adecuado y responsable de nuestra tierra y la no agricultura intensiva so
 
 **9. Sobrepoblación y urbanización** 🏙️
 
-El crecimiento acelerado de la población humana y la urbanización están aumentando la demanda de recursos naturales, energía y alimentos. Esto genera más contaminación, deforestación y presión sobre los ecosistemas.
-10. Desastres naturales y resiliencia
+La sobrepoblación y la urbanización aumenta exponencialmente el consumo de energía, de alimentos, de recursos naturales, de esfuerzo para eliminar residuos, la contaminación y la deforestación. Tendremos que asumir el reto de reducir las emisiones, de emplear energías renovables, de generar nuevos espacios verdes e incentivar el transporte público para intentar minimizar el impacto de la huella medioambiental.
+    
+**10. Desastres naturales y resiliencia** 🌊🌈
 
-A medida que el cambio climático aumenta la frecuencia y la intensidad de los desastres naturales, como huracanes, incendios forestales e inundaciones, las comunidades deben adaptarse a estos nuevos desafíos. La capacidad de resiliencia es crucial para reducir el impacto social y económico de estos eventos.
+Los desastres naturales aumentan a medida que vamos perjudicando nuestro planeta. Cada vez sufrimos más huracanes, incendios, inundaciones y deforestaciones. La capacidad de resiliencia es vital para reducir el impacto social y económico de estos acontecimientos.
+
+
 ¿Cómo podemos abordar estos retos?
 
 Para enfrentar estos desafíos, se requiere una combinación de políticas públicas, acción global, innovación tecnológica y cambios en el comportamiento individual y colectivo. Algunas estrategias clave incluyen:
