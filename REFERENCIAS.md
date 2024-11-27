@@ -8,4 +8,5 @@ https://www.fao.org/newsroom/story/Let-s-StopSoilErosion-to-ensure-a-food-secure
 http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-04552016000200014  
 https://www.ecologiaverde.com/explotacion-de-recursos-naturales-definicion-tipos-y-ejemplos-1545.html  
 https://saahaszerowaste.com/plastic-waste-management-india/  
-https://globalparis.es/la-escasez-del-agua-en-el-undo-causas-y-consecuencias/
+https://globalparis.es/la-escasez-del-agua-en-el-undo-causas-y-consecuencias/  
+https://www.ainia.com/ainia-news/10-acciones-empresas-reducir-impacto-ambiental/
