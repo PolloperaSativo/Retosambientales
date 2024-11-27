@@ -1,6 +1,6 @@
 # 1.2. Principales retos ambientales y sociales
 
-Existen diferentes problemas medioambientales🪴, pero podemos señalar principalmente:
+Existen diferentes problemas medioambientales,🌱 pero podemos señalar principalmente:
 
 
 **1. Cambio climático** 🌩️
@@ -9,7 +9,7 @@ La variación en las temperaturas y en los patrones climáticos se debe a los ca
 
 
 
-**2. La degradación del suelo: cómo afecta la producción de alimentos y la biodiversidad** 🌲
+**2. La degradación del suelo: cómo afecta la producción de alimentos y la biodiversidad** 🌍🌱
 
 La agricultura extensiva y la erosión son las principales causas de la degradación del suelo, ya que ocasionan que la tierra pierda su capacidad productiva. Nuestra tierra está llena de agua, nutrientes y microorganismos que son esenciales para producir nuestros alimentos. Si lo unimos a la disminución de la biodiversidad (las especies animales y vegetales) podemos ver amenazada nuestra seguridad alimentaria y nuestra salud. De ahí que sea un reto importante para el bienestar humano.
 
@@ -37,13 +37,17 @@ El concepto de explotación de los recursos naturales, se conoce como el aprovec
 El aumento de la utilización de plásticos de un solo uso ha generado tal cantidad de basura, que nos obliga a tomar cartas en el asunto para poder reciclarla y darle otros usos a ese plástico, ya que su destrucción resulta una tarea casi imposible y lo están pagando nuestros mares y océanos y, por lo tanto, nuestra vida marina.
 
 
-**7. Escasez de agua**
+**7. Escasez de agua** 🚱
 
-El aumento de la población y la contaminación de fuentes de agua están exacerbando la escasez de agua potable en muchas regiones del mundo. El cambio climático también está afectando los patrones de precipitación, lo que agrava la situación en áreas ya vulnerables.
-8. Agricultura y uso de la tierra
+El cambio climático unido a la superpoblación, al uso descontrolado y a la contaminación, hace que el agua potable sea un recurso de primera necesidad que tenemos que cuidar. La escasez de agua se puede traducir en la aparición de enfermedades, falta de alimentos o desaparición de vegetales. La gestioón de este recurso es crucial.
 
-La expansión de la agricultura intensiva, que a menudo involucra el uso de grandes cantidades de agua, fertilizantes y pesticidas, está contribuyendo a la contaminación, la pérdida de biodiversidad y la degradación del suelo. Además, la conversión de tierras forestales en tierras agrícolas está acelerando el cambio climático.
-9. Sobrepoblación y urbanización
+
+**8. Agricultura y uso de la tierra** 🌾
+
+El uso adecuado y responsable de nuestra tierra y la no agricultura intensiva son los retos a los que tenemos que enfrentarnos para que no perdamos biodiversidad, no degrademos nuestros suelos y no contribuyamos a acelerar el cambio climático, al convertir las tierras forestales en tierras agrícolas. Si cumplimos estos objetivos, disfrutaremos de una mejor sostenibilidad medioambiental y garantizaremos la salud del planeta. 
+
+
+**9. Sobrepoblación y urbanización** 🏙️
 
 El crecimiento acelerado de la población humana y la urbanización están aumentando la demanda de recursos naturales, energía y alimentos. Esto genera más contaminación, deforestación y presión sobre los ecosistemas.
 10. Desastres naturales y resiliencia
@@ -72,4 +76,5 @@ https://www.fao.org/newsroom/story/Let-s-StopSoilErosion-to-ensure-a-food-secure
 http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-04552016000200014
 https://www.ecologiaverde.com/explotacion-de-recursos-naturales-definicion-tipos-y-ejemplos-1545.html
 https://saahaszerowaste.com/plastic-waste-management-india/
+https://globalparis.es/la-escasez-del-agua-en-el-undo-causas-y-consecuencias/
 
