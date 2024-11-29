@@ -18,6 +18,10 @@ Referencias
 
 Autores  
 
+
+
+
+
 2.- La ONU prevé que para el año 2050 la población mundial sea de:  
 La ONU prevé que para el año 2050 la población mundial sea de:
 Aproximadamente 9,7 mil millones de personas.  
