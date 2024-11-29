@@ -1,6 +1,6 @@
 # Referencias ✒️
 
-https://hablandoenvidrio.com/7-grandes-problemas-medioambientales/  
+https://hablandoenvidrio.com/7-grandes-problemas-medioambientales/
 https://www.leadsostenibilidad.com/blog/agotamiento-recursos-naturales  
 https://www.un.org/es/climatechange/what-is-climate-change  
 https://www.medellin.gov.co/es/sala-de-prensa/noticias/problemas-ambientales-que-son-relevancia-y-los-23-mas-graves-que-estan-afectando-a-nuestro-planeta/  
@@ -10,3 +10,6 @@ https://www.ecologiaverde.com/explotacion-de-recursos-naturales-definicion-tipos
 https://saahaszerowaste.com/plastic-waste-management-india/  
 https://globalparis.es/la-escasez-del-agua-en-el-undo-causas-y-consecuencias/  
 https://www.ainia.com/ainia-news/10-acciones-empresas-reducir-impacto-ambiental/
+https://humanidades.com/clima/  
+https://www.manosunidas.org/observatorio/cambio-climatico/impacto-cambio-climatico  
+https://librosesmic.com/index.php/editorial/catalog/download/92/88/2299?inline=1  
