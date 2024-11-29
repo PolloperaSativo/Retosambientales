@@ -1,5 +1,9 @@
 # 1.2. Principales retos ambientales y sociales
 
+<p align="center">
+  <img src="/img/reto.png" alt="![Reto](/img/reto.png)" />
+</p>
+
 Existen diferentes problemas medioambientales,🌱 pero podemos señalar principalmente:
 
 
@@ -49,32 +53,8 @@ El uso adecuado y responsable de nuestra tierra y la no agricultura intensiva so
 
 **9. Sobrepoblación y urbanización** 🏙️
 
-El crecimiento acelerado de la población humana y la urbanización están aumentando la demanda de recursos naturales, energía y alimentos. Esto genera más contaminación, deforestación y presión sobre los ecosistemas.
-10. Desastres naturales y resiliencia
-
-A medida que el cambio climático aumenta la frecuencia y la intensidad de los desastres naturales, como huracanes, incendios forestales e inundaciones, las comunidades deben adaptarse a estos nuevos desafíos. La capacidad de resiliencia es crucial para reducir el impacto social y económico de estos eventos.
-¿Cómo podemos abordar estos retos?
-
-Para enfrentar estos desafíos, se requiere una combinación de políticas públicas, acción global, innovación tecnológica y cambios en el comportamiento individual y colectivo. Algunas estrategias clave incluyen:
-
-    Energías renovables: Apostar por energías limpias como la solar, eólica e hidroeléctrica para reducir las emisiones de carbono.
-    Economía circular: Promover el reciclaje, la reutilización de materiales y la reducción de residuos.
-    Conservación de la biodiversidad: Proteger los ecosistemas y especies en peligro, y promover prácticas agrícolas y forestales sostenibles.
-    Educación y sensibilización: Fomentar un mayor entendimiento del medio ambiente y promover prácticas sostenibles a nivel individual y comunitario.
-    Políticas internacionales: Impulsar acuerdos globales como el Acuerdo de París para coordinar esfuerzos internacionales en la lucha contra el cambio climático y otros problemas ambientales.
-El tiempo es clave, y las acciones hoy determinarán el futuro del planeta.
-
+La sobrepoblación y la urbanización aumenta exponencialmente el consumo de energía, de alimentos, de recursos naturales, de esfuerzo para eliminar residuos, la contaminación y la deforestación. Tendremos que asumir el reto de reducir las emisiones, de emplear energías renovables, de generar nuevos espacios verdes e incentivar el transporte público para intentar minimizar el impacto de la huella medioambiental.
     
-    
-Sin un desarrollo sostenible, la superpoblación puede provocar escasez de alimentos y agua y el agotamiento de otros recursos . También puede exacerbar problemas como la eliminación de residuos, la contaminación y la deforestación, que pueden contribuir a problemas de salud pública. El uso general de energía puede tener un impacto importante en el medio ambiente.
+**10. Desastres naturales y resiliencia** 🌊🌈
 
-
-https://www.leadsostenibilidad.com/blog/agotamiento-recursos-naturales
-https://www.un.org/es/climatechange/what-is-climate-change
-https://www.medellin.gov.co/es/sala-de-prensa/noticias/problemas-ambientales-que-son-relevancia-y-los-23-mas-graves-que-estan-afectando-a-nuestro-planeta/
-https://www.fao.org/newsroom/story/Let-s-StopSoilErosion-to-ensure-a-food-secure-future/es
-http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-04552016000200014
-https://www.ecologiaverde.com/explotacion-de-recursos-naturales-definicion-tipos-y-ejemplos-1545.html
-https://saahaszerowaste.com/plastic-waste-management-india/
-https://globalparis.es/la-escasez-del-agua-en-el-undo-causas-y-consecuencias/
-
+Los desastres naturales aumentan a medida que vamos perjudicando nuestro planeta. Cada vez sufrimos más huracanes, incendios, inundaciones y deforestaciones. La capacidad de resiliencia es vital para reducir el impacto social y económico de estos acontecimientos.
