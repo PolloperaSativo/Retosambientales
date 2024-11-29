@@ -17,8 +17,7 @@ Glosario
 Referencias
 
 Autores  
-1.- ¿Qué es el clima?  
-El clima es el conjunto de condiciones atmosféricas que caracterizan una región durante un largo periodo de tiempo. Incluye factores como la temperatura, la humedad, la precipitación, el viento, la radiación solar, entre otros.  
+
 2.- La ONU prevé que para el año 2050 la población mundial sea de:  
 La ONU prevé que para el año 2050 la población mundial sea de:
 Aproximadamente 9,7 mil millones de personas.  
@@ -43,6 +42,6 @@ De la A (más eficiente) a la G (menos eficiente).
 9.- El compostaje es una medida para:  
 El compostaje es una medida para:
 Reducir los residuos orgánicos y transformar los desechos en abono natural para la tierra.  
-10.- Una EIA es:¿Qué es el clima?  
+10.- Una EIA es:
 Una EIA es:
 Una Evaluación de Impacto Ambiental, que es un estudio realizado para identificar, predecir y mitigar los efectos de un proyecto o actividad sobre el medio ambiente.
