@@ -21,9 +21,9 @@ La agricultura extensiva y la erosión son las principales causas de la degradac
 
 **3. Contaminación del aire, agua y suelo** 🌫️💧
 
-La contaminación es el proceso en el que se introducen sustancias extrañas al medio ambiente. Nuestro aire se ve afectado por las emisiones industriales, el transporte y la agricultura, provocando enfermedades en nuestra salud. 
+La contaminación es el proceso en el que se introducen sustancias extrañas al medio ambiente. Nuestro aire se ve afectado por las emisiones industriales, el transporte y la agricultura, provocando enfermedades en nuestra salud. Otro factor a tener en cuenta en la contaminación física es el ruido, puesto que afecta la calidad del ambiente y la salud de los seres vivos.  
 El agua es un recurso indispensable para la vida. La contaminación de los ríos, océanos y lagos se produce cuando se alteran sus condiciones naturales perjudicando seriamemte nuestra supervivencia, la de los animales y de las plantas. Un agua contaminada es un bien inservible que puede producir enfermedades e intoxicación.
-La contaminaciĺon del suelo ocurre cuando cambian las características de la tierra. La deforestación, la acumulación de basura, los residuos industriales o el uso de pesticidas son las principales causas de la contaminación. Esto es tan dañino para el medio ambiente como para el hombre.
+La contaminaciĺon del suelo ocurre cuando cambian las características de la tierra. La deforestación, la acumulación de basura, los residuos industriales o el uso de pesticidas son las principales causas de la contaminación del suelo. Esto es tan dañino para el medio ambiente como para el hombre.
 
 
 **4. Deforestación** 🌳❌
@@ -38,12 +38,12 @@ El concepto de explotación de los recursos naturales, se conoce como el aprovec
 
 **6. Gestión de residuos y plásticos** ♻️
 
-El aumento de la utilización de plásticos de un solo uso ha generado tal cantidad de basura, que nos obliga a tomar cartas en el asunto para poder reciclarla y darle otros usos a ese plástico, ya que su destrucción resulta una tarea casi imposible y lo están pagando nuestros mares y océanos y, por lo tanto, nuestra vida marina.
+El aumento de la utilización de plásticos de un solo uso ha generado tal cantidad de basura, que nos obliga a tomar cartas en el asunto para poder reciclarla y darle otros usos a ese plástico, ya que su destrucción resulta una tarea casi imposible. En España, según datos del INE, cada ciudadano produce aproximadamente 450-500 kg de residuos al año lo que agrava el problema de la contaminación y lo están sufriendo nuestros mares y océanos y, por lo tanto, nuestra vida marina.
 
 
 **7. Escasez de agua** 🚱
 
-El cambio climático unido a la superpoblación, al uso descontrolado y a la contaminación, hace que el agua potable sea un recurso de primera necesidad que tenemos que cuidar. La escasez de agua se puede traducir en la aparición de enfermedades, falta de alimentos o desaparición de vegetales. La gestioón de este recurso es crucial.
+El cambio climático unido a la superpoblación, al uso descontrolado en el consumo doméstico, la agricultura, la industria y la contaminación, hace que el agua potable sea un recurso de primera necesidad que tenemos que cuidar. La escasez de agua se puede traducir en la aparición de enfermedades, falta de alimentos o desaparición de vegetales. La gestioón de este recurso es crucial.
 
 
 **8. Agricultura y uso de la tierra** 🌾
@@ -53,7 +53,8 @@ El uso adecuado y responsable de nuestra tierra y la no agricultura intensiva so
 
 **9. Sobrepoblación y urbanización** 🏙️
 
-La sobrepoblación y la urbanización aumenta exponencialmente el consumo de energía, de alimentos, de recursos naturales, de esfuerzo para eliminar residuos, la contaminación y la deforestación. Tendremos que asumir el reto de reducir las emisiones, de emplear energías renovables, de generar nuevos espacios verdes e incentivar el transporte público para intentar minimizar el impacto de la huella medioambiental.
+La sobrepoblación y la urbanización aumentan exponencialmente el consumo de energía, de alimentos, de recursos naturales, de esfuerzo para eliminar residuos, la deforestación y la contaminación, incluyendo la lumínica. Esta última se produce cuando el exceso de la luz artificial interfiere con los ecosistemas naturales alterando el ciclo noche y día, afectando tanto al medioambiente como a nuestra calidad de vida. Tendremos que asumir el reto de reducir las emisiones, de emplear energías renovables, de generar nuevos espacios verdes e incentivar el transporte público para intentar minimizar el impacto de la huella medioambiental.
+
     
 **10. Desastres naturales y resiliencia** 🌊🌈
 
