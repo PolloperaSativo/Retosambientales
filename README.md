@@ -18,8 +18,6 @@ Referencias
 
 Autores  
 
-wqgwtestjusrjsr
-
 
 
 2.- La ONU prevé que para el año 2050 la población mundial sea de:  
