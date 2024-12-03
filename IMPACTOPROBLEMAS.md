@@ -11,37 +11,22 @@ A nivel medioambiental, el cambio climático provoca un impacto repentino en for
 Disminución de nutrientes como fósforo, nitrógeno, potasio... Ya sea directa o indirectamente por escorrentía o erosión; cambios en la estructura; en la retención de agua y aumento de la contaminación por el uso de sustancias tóxicas. Todos estos impactos generan efectos a corto, mediano y largo plazo que pueden llevar a la desertización.
 
 **Impacto de la contaminacion del aire, agua y suelo**  
-Impactos ambientales de la contaminación del aire:  
-Cambio climático: El aumento de gases de efecto invernadero como el dióxido de carbono (CO₂), metano (CH₄) y óxidos de nitrógeno (NOₓ) contribuye al calentamiento global y altera el clima.  
-Destrucción de la capa de ozono: Algunos contaminantes, como los clorofluorocarbonos (CFC), contribuyen al agotamiento de la capa de ozono, que protege la Tierra de la radiación ultravioleta dañina.  
-Acidificación: Los óxidos de nitrógeno (NOₓ) y el dióxido de azufre (SO₂) pueden reaccionar con el agua en la atmósfera para formar ácido sulfúrico y ácido nítrico, lo que da lugar a la lluvia ácida. Esta acidificación puede afectar a los suelos, lagos, bosques y ecosistemas acuáticos.  
+*Impactos de la contaminación del aire:* El aumento de gases de efecto invernadero como el dióxido de carbono , metano y óxidos de nitrógeno contribuye al calentamiento global y altera el clima.  
+Destrucción de la capa de ozono: Algunos contaminantes, como los clorofluorocarbonos, contribuyen al agotamiento de la capa de ozono, que protege la Tierra de la radiación ultravioleta dañina.  
+Acidificación: Los óxidos de nitrógeno y el dióxido de azufre pueden reaccionar con el agua en la atmósfera para formar ácido sulfúrico y ácido nítrico, lo que da lugar a la lluvia ácida. Esta acidificación puede afectar a los suelos, lagos, bosques y ecosistemas acuáticos.  
 Efectos sobre la biodiversidad: La contaminación del aire también puede dañar la vegetación, interfiriendo en la fotosíntesis, y afectar a la fauna, alterando su hábitat y sus patrones de migración.
 
-2. Contaminación del agua:
-La contaminación del agua se refiere a la introducción de sustancias tóxicas o contaminantes en cuerpos de agua como ríos, lagos, océanos y aguas subterráneas.
+*Impactos de la contaminación del agua:*
+Pérdida de biodiversidad: Los contaminantes como metales pesados, pesticidas y productos químicos industriales son tóxicos para las especies acuáticas, afectando tanto a la fauna como a la flora. Esto reduce la biodiversidad y desestabiliza los ecosistemas acuáticos.
+Eutrofización: El exceso de nutrientes, como nitrógeno y fósforo (provenientes de fertilizantes, aguas residuales y desechos orgánicos), puede causar la proliferación descontrolada de algas, lo que reduce la cantidad de oxígeno disponible en el agua, afectando la vida acuática.
+Contaminación por plásticos: Los plásticos que se vierten en los océanos y ríos tienen un efecto devastador sobre la vida marina, ya que muchos animales ingieren estos desechos, lo que les provoca la muerte o problemas de salud.
+Contaminación del agua potable: El consumo de agua contaminada puede causar enfermedades gastrointestinales, infecciones bacterianas, virus y parásitos.
+Toxicidad acumulada: Los metales pesados como el mercurio o el plomo, acumulados en los cuerpos acuáticos, pueden entrar en la cadena alimentaria humana, causando intoxicaciones y daños a largo plazo en el sistema nervioso y otros órganos.
 
-Impactos ambientales:
+*Impactos de la contaminaciónd el suelo:*
+Destrucción de la fertilidad del suelo: El uso excesivo de pesticidas, fertilizantes químicos y la disposición inapropiada de desechos industriales pueden alterar la estructura del suelo, empobreciéndolo y reduciendo su capacidad de sostener la agricultura.
+Contaminación por metales pesados: Elementos como el arsénico, plomo y cadmio pueden contaminar el suelo, afectando la salud de las plantas y animales que dependen de él, e incluso acumulándose en los alimentos.
+Pérdida de hábitats: La contaminación del suelo afecta a los organismos que viven en él, lo que perturba los ecosistemas y reduce la biodiversidad.
 
-    Pérdida de biodiversidad: Los contaminantes como metales pesados, pesticidas y productos químicos industriales son tóxicos para las especies acuáticas, afectando tanto a la fauna como a la flora. Esto reduce la biodiversidad y desestabiliza los ecosistemas acuáticos.
-    Eutrofización: El exceso de nutrientes, como nitrógeno y fósforo (provenientes de fertilizantes, aguas residuales y desechos orgánicos), puede causar la proliferación descontrolada de algas (floraciones algales), lo que reduce la cantidad de oxígeno disponible en el agua, afectando la vida acuática.
-    Contaminación por plásticos: Los plásticos que se vierten en los océanos y ríos tienen un efecto devastador sobre la vida marina, ya que muchos animales ingieren estos desechos, lo que les provoca la muerte o problemas de salud.
-
-Impactos en la salud humana:
-
-    Contaminación del agua potable: El consumo de agua contaminada puede causar enfermedades gastrointestinales, infecciones bacterianas, virus y parásitos.
-    Toxicidad acumulada: Los metales pesados como el mercurio o el plomo, acumulados en los cuerpos acuáticos, pueden entrar en la cadena alimentaria humana, causando intoxicaciones y daños a largo plazo en el sistema nervioso y otros órganos.
-
-3. Contaminación del suelo:
-
-La contaminación del suelo ocurre cuando sustancias químicas, productos tóxicos o desechos sólidos se depositan en la tierra, afectando su calidad y la capacidad para sostener la vida.
-
-Impactos ambientales:
-
-    Destrucción de la fertilidad del suelo: El uso excesivo de pesticidas, fertilizantes químicos y la disposición inapropiada de desechos industriales pueden alterar la estructura del suelo, empobreciéndolo y reduciendo su capacidad de sostener la agricultura.
-    Contaminación por metales pesados: Elementos como el arsénico, plomo y cadmio pueden contaminar el suelo, afectando la salud de las plantas y animales que dependen de él, e incluso acumulándose en los alimentos.
-    Pérdida de hábitats: La contaminación del suelo afecta a los organismos que viven en él, como lombrices, insectos y microorganismos, lo que perturba los ecosistemas y reduce la biodiversidad.
-
-Impactos en la salud humana:
-
-    Enfermedades derivadas del consumo de alimentos contaminados: Los metales pesados y productos químicos en el suelo pueden ingresar a los cultivos y, posteriormente, a los humanos a través de la cadena alimentaria.
-    Enfermedades dérmicas y respiratorias: El contacto con suelos contaminados puede causar problemas en la piel y en el sistema respiratorio, especialmente en áreas donde se utilizan productos químicos sin las debidas precauciones.
+**Impacto de la deforestación**
+La deforestación puede tener importantes repercusiones tanto en la sociedad como en el medio ambiente. A nivel mundial, la deforestación y la degradación forestal contribuyen a casi un quinto de las emisiones de gases de efecto invernadero. Otros impactos ambientales de la deforestación incluyen: el daño a los hábitats, su fragmentación y la sucesiva pérdida de biodiversidad; la alteración de los ciclos del agua, la erosión del suelo y la desertificación. 
