@@ -7,7 +7,7 @@ Hay muchas ideas y mucho trabajo por delante para poder combatir los impactos am
 </p>
 
 Apuesta por energías renovables, revisa periódicamente tus consumos, ten en cuenta que disponer de un buen aislamiento térmico significará reducir el consumo de energía. 
-En el caso de la industria cada vez hay más empresas concienciadas para tal fin, evalúan sus instalaciones, se financian proyectos de eficiencia energética, promueven el reciclaje o la reducción de residuos. Haz que la consideración del medio ambiente sea una parte importante de la gestión de tu empresa. Implanta sistemas de gestión medioambiental y responsabilidad social empresarial.
+En el caso de la industria cada vez hay más empresas concienciadas para tal fin, evalúan sus instalaciones, se financian proyectos de eficiencia energética, promueven el reciclaje o la reducción de residuos. Existe un estándar para la clasificación energética. En función de la eficiencia, podemos catalogar los dispositivos con una distinción. De la letra A a la G, siendo la A la más eficiente y la G la menos. Esto facilita la comparación energética e incentiva un uso sostenible. Haz que la consideración del medio ambiente sea una parte importante de la gestión de tu empresa. Implanta sistemas de gestión medioambiental y responsabilidad social empresarial.
 
 <p align="center">
   <img src="/img/medida1.jpeg" alt="![Medida1](/img/medida1.jpeg)" />
